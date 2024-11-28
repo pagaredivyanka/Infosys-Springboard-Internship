@@ -3,5 +3,5 @@ Gihub distributive system
 four important github commands- 
 clone - clone the code in local system when start coding
 commit - changes reflect to local system c folder
-pull 
-push
+push - pushes the code to the remote repository 
+pull - pulls the command to remote to local
