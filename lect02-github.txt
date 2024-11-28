@@ -1,7 +1,21 @@
-Gihub distributive system
+First - setup
+Second - Github distributive system ()
 
-four important github commands- 
-clone - clone the code in local system when start coding
-commit - changes reflect to local system c folder
-push - pushes the code to the remote repository 
-pull - pulls the command to remote to local
+Four most common github commands- 
+Clone - clone the code in local system when start coding
+Commit - changes reflect to local system c folder
+Push - pushes the code to the remote repository 
+Pull - pulls the command to remote to local
+
+Merge conflict - when you push the code without 
+
+Resolve - 
+
+Pull - sync - compare - make necessary changes - push
+
+------------------------------------------------------------
+
+Version control system - 
+
+
+
