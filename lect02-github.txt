@@ -1,4 +1,6 @@
-clone
-commit
-pull
+Gihub distributive system
+
+clone - clone the code in local system when start coding
+commit - changes reflect to local system c folder
+pull 
 push
