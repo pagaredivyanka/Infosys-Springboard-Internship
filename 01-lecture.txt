@@ -1,0 +1,4 @@
+Console Applications like:
+1. Food App billing system
+2. Digital Vallet
+3. Inventory system
