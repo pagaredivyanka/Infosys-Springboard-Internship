@@ -1,2 +1,2 @@
-- Sprint 1 - Artifacts (Wireframe)
+- Sprint 1 - Artifacts (Wireframe) - https://github.com/pagaredivyanka/Infosys-Springboard-Internship/blob/main/Food_Express.drawio.png
 - Sprint 2 - Backend (Admin side)
